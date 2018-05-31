@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+
+    <title>Marcus Nystrand</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet">
+    <link href="assets/css/query.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <!-- Static navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">Marcus Nystrand</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="active"><a href="index.html">Projects</a></li>
+            <li><a href="about.html">About</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+  <section id="works"></section>
+	<div class="container">
+		<div class="row left mt mb">
+			<div class="col-lg-8 col-lg-offset-2">
+		<center><h1>Synthetic Triggers</h1></center>
+				<p>
+        Synthetic Triggers - A study in animated graphics ASMR. <br><br>
+Millions of people all over the world regularly watch videos where someone creates sounds using various objects and whispers into a microphone. This is part of the hunt for so-called tingles: warm, relaxing “brain massage” which can best be produced by audio and visual stimuli. The phenomenon has been popularized as Autonomous Sensory Meridian Response (ASMR). 
+<br><br>
+Almost all ASMR videos have a person present to a greater or lesser extent. In some of them the person sits close to the camera and pays intrusive attention to the watcher. In others, the person only shows her hands and remains silent while the sound is created. This project examines whether a human presence is necessary in order to trigger ASMR or whether the tactile experience can be generated via animated graphic objects. 
+<br><br>
+I have created my own animated ASMR material, free from human presence. I have also tested the material quantitatively in a digital survey and the results have been summarized in a film. The survey opened on April 23rd and closed on May 14th 2018 with 560 finished submissions. 
+
+        
+        
+        </p>
+			</div>
+			<div class="col-lg-10 col-lg-offset-1 mthalf">
+
+      <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/269930636' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<br>
+      <img class="img-responsive" src="assets/img/synthetictriggers/marcus_nystrand_synthetic_triggers_1.jpg"><a/>
+<img class="img-responsive" src="assets/img/synthetictriggers/marcus_nystrand_synthetic_triggers_2.jpg"><a/>
+<img class="img-responsive" src="assets/img/synthetictriggers/marcus_nystrand_synthetic_triggers_3.jpg"><a/>
+<img class="img-responsive" src="assets/img/synthetictriggers/marcus_nystrand_synthetic_triggers_4.jpg"><a/>
+<img class="img-responsive" src="assets/img/synthetictriggers/marcus_nystrand_synthetic_triggers_5.jpg"><a/>
+<img class="img-responsive" src="assets/img/synthetictriggers/marcus_nystrand_synthetic_triggers_6.jpg"><a/>
+<img class="img-responsive" src="assets/img/synthetictriggers/marcus_nystrand_synthetic_triggers_7.jpg"><a/>
+<img class="img-responsive" src="assets/img/synthetictriggers/marcus_nystrand_synthetic_triggers_8.jpg"><a/>
+<img class="img-responsive" src="assets/img/synthetictriggers/marcus_nystrand_synthetic_triggers_9.jpg"><a/>
+<img class="img-responsive" src="assets/img/synthetictriggers/marcus_nystrand_synthetic_triggers_10.jpg"><a/>
+
+
+			</div><! --/row -->
+		</div><! --/container -->
+	</div><! --/social -->
+
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+  </body>
+</html>
