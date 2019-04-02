@@ -1,0 +1,116 @@
+@media screen and (max-width: 1550px) {
+
+  .active-project {
+    margin: 0 auto;
+    margin-left: 0.1vh;
+  }
+
+  .title  {
+    float: right;
+    text-align: right;
+    width: auto;
+      margin-right: 0vw;
+  }
+
+  .imggrid  {
+    width: 22vw;
+    margin: 0.5vw;
+  }
+
+  .mainwrap {
+    padding-left: 1.5vw;
+  }
+
+  .projectrow {
+    width: 21vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+  }
+  .description  {
+    margin-left: 19vw;
+    margin-right: 19vw;
+  }
+
+}
+
+@media screen and (max-width: 1150px) {
+
+  .imggrid  {
+    width: 30vw;
+    margin: 0.5vw;
+  }
+
+  .imggrid-large  {
+    width: 38vw;
+    margin: 0.5vw;
+  }
+
+  .imggrid-halfwidth  {
+    width: 43.25vw;
+    margin-left: 2.2vw;
+  }
+
+  .imggrid-fullwidth  {
+    width: 89.1vw;
+    margin-left: -0.3vw;
+  }
+
+  .mainwrap {
+    padding-left: 1vw;
+  }
+  .projectrow {
+    width: 29vw;
+  }
+
+  .about {
+    width: 94vw;
+    float: left;
+  }
+
+  .description  {
+    margin-left: 10vw;
+    margin-right: 10vw;
+  }
+
+  .embed-container-16-9 {
+    padding-bottom: 43%;
+  }
+
+}
+
+@media screen and (orientation: portrait) {
+
+  .embed-container-16-9 {
+    padding-bottom: 53%;
+  }
+
+  .imggrid  {
+    width: 46vw;
+    margin: 0.5vw;
+  }
+
+  .imggrid-large  {
+    margin-left: 2vw;
+    margin-right: 2vw;
+    width: 89.5vw;
+    overflow: hidden;
+  }
+
+
+  .mainwrap {
+    padding-left: 0.7vw;
+  }
+
+  .projectrow {
+    width: 44.8vw;
+  }
+
+  .title  {
+    display: none;
+  }
+
+  .description  {
+    margin-left: 2vw;
+    margin-right: 2vw;
+  }
+}
