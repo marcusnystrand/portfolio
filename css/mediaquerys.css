@@ -35,6 +35,11 @@
 
 @media screen and (max-width: 1150px) {
 
+  .rollingtitle {
+    height: 6.9vh;
+  }
+
+
   .imggrid  {
     width: 30vw;
     margin: 0.5vw;
@@ -78,6 +83,10 @@
 }
 
 @media screen and (orientation: portrait) {
+
+  .rollingtitle {
+    height: 6.5vh;
+  }
 
   .embed-container-16-9 {
     padding-bottom: 53%;
