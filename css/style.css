@@ -69,7 +69,7 @@ iframe {
 
 .navwrap  {
   display: grid;
-  grid-template-columns: 17vh 5vh auto;
+  grid-template-columns: 16.5vh 5vh auto;
   width: 95.8%;
   height: 5vh;
   font-weight: bold;
