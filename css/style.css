@@ -64,7 +64,6 @@ iframe {
   padding-bottom: 2vh;
   height: 5vh;
   text-align: right;
-  width: auto;
 }
 
 .navwrap  {
@@ -86,7 +85,6 @@ iframe {
   padding-top: 2vh;
   padding-bottom: 2vh;
   margin: 0 auto;
-  text-align: left;
   float: left;
 }
 
@@ -94,8 +92,7 @@ iframe {
   padding-top: 2vh;
   padding-bottom: 2vh;
   margin: 0 auto;
-
-  text-align: right;
+  width: fit-content;
 }
 
 .aboutwrap {
@@ -235,33 +232,4 @@ iframe {
     -webkit-transform: translateX(-90%); /* Firefox bug fix */
     transform: translateX(-90%);
   }
-}
-
-.active-projects {
-  width: 13.56vh;
-  float: left;
-  margin: 0 auto;
-  height: 0.6vh;
-  background: #121212;
-  border: 0px;
-  transform: translateY(2px);
-}
-
-.active-about {
-  float: left;
-  margin: 0 auto;
-  margin-left: 0.2vh;
-  height: 0.6vh;
-  background: #121212;
-  border: 0px;
-  transform: translateY(2px);
-}
-
-.active-project {
-  margin: 0 auto;
-  margin-left: 0.1vh;
-  height: 0.6vh;
-  background: #121212;
-  border: 0px;
-  transform: translateY(2px);
 }
