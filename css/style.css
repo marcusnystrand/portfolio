@@ -59,18 +59,17 @@ iframe {
 }
 
 .title  {
-  float: center;
+  float: right;
   padding-top: 2vh;
   padding-bottom: 2vh;
   height: 5vh;
   text-align: center;
   width: auto;
-  margin-right: 4vw;
 }
 
 .navwrap  {
   display: grid;
-  grid-template-columns: 5vh 5vh auto;
+  grid-template-columns: 17vh 5vh auto;
   width: 95.8%;
   height: 5vh;
   font-weight: bold;
@@ -87,9 +86,7 @@ iframe {
   padding-top: 2vh;
   padding-bottom: 2vh;
   margin: 0 auto;
-
   text-align: left;
-  width: 30.9vw;
   float: left;
 }
 
@@ -99,7 +96,7 @@ iframe {
   margin: 0 auto;
 
   text-align: right;
-  width: 20.9vh;
+  width: fit-content;
 }
 
 .aboutwrap {
