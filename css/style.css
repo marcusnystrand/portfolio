@@ -127,9 +127,9 @@ iframe {
 
 .description  {
   font-weight: bold;
-  line-height: 4.4vh;
+  line-height: 5.4rem;
   color: #121212;
-  font-size: 4vh;
+  font-size: 5rem;
   text-align: left;
   height: 0 auto;
   display: inline-block;
