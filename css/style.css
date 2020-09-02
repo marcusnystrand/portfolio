@@ -5,6 +5,10 @@ body{
   padding-bottom: 0px;
 }
 
+@-ms-viewport{
+  width: device-width;
+}
+
 * {
   box-sizing: border-box;
 }
