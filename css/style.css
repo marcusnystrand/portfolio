@@ -5,20 +5,6 @@ body{
   padding-bottom: 0px;
 }
 
-.noselect {
-  -webkit-touch-callout: none; /* iOS Safari */
-    -webkit-user-select: none; /* Safari */
-     -khtml-user-select: none; /* Konqueror HTML */
-       -moz-user-select: none; /* Old versions of Firefox */
-        -ms-user-select: none; /* Internet Explorer/Edge */
-            user-select: none; /* Non-prefixed version, currently
-                                  supported by Chrome, Edge, Opera and Firefox */
-}
-
-@-ms-viewport{
-  width: device-width;
-}
-
 * {
   box-sizing: border-box;
 }
@@ -137,9 +123,9 @@ iframe {
 
 .description  {
   font-weight: bold;
-  line-height: 109%;
+  line-height: 4.4vh;
   color: #121212;
-  font-size: 5rem;
+  font-size: 4vh;
   text-align: left;
   height: 0 auto;
   display: inline-block;
