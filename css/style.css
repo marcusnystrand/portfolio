@@ -3,6 +3,22 @@ body{
   margin: 0 auto;
   padding: 0 auto;
   padding-bottom: 0px;
+
+
+/* GLOBAL TEXT */
+  font-size: 2.1em;
+  line-height: 1.15em;
+  font-weight: bold;
+}
+
+.noSelect {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
 }
 
 * {
@@ -29,7 +45,6 @@ iframe {
 }
 
 .mainwrap {
-  font-size: 0;
   margin:0 auto;
   padding-left: 1.5vw;
   display: -webkit-flex;
@@ -42,11 +57,6 @@ iframe {
   flex-wrap:wrap;
 }
 
-.largetext {
-  font-size: 4vh;
-  line-height: 4.4vh;
-  font-weight: bold;
-}
 
 .projectrow {
   width: 21vw;
@@ -68,17 +78,14 @@ iframe {
 
 .navwrap  {
   display: grid;
-  grid-template-columns: 16.5vh 5vh auto;
+  grid-template-columns: 4.1em 5vh auto;
   width: 95.8%;
-  height: 5vh;
-  font-weight: bold;
+  height: 1.2em;
   margin: 0 auto;
   margin-bottom: 5vh;
   margin-top: 0.4vh;
   padding: 0.5vw;
   color: #121212;
-  font-size: 4vh;
-  font-weight: bold;
 }
 
 .nav-left {
@@ -98,18 +105,16 @@ iframe {
 .aboutwrap {
   height: 300px;
   color: #121212;
-  font-size: 4vh;
   text-align: left;
-  line-height: 4.4vh;
 
   margin-bottom: 34vh;
   margin-top: 7vh;
   margin-left: 0.6vw;
-  margin-right: 0vw;
+  margin-right: 2vw;
 }
 
 .about {
-  width: 48%;
+  width: 45%;
   height: 0 auto;
   display: inline-block;
   vertical-align: top;
@@ -122,10 +127,7 @@ iframe {
 }
 
 .description  {
-  font-weight: bold;
-  line-height: 4.4vh;
   color: #121212;
-  font-size: 4vh;
   text-align: left;
   height: 0 auto;
   display: inline-block;
@@ -203,14 +205,13 @@ iframe {
 .rollingtitle {
   width: 8000px;
   display: inline-block;
-  height: 7vh;
+  height: 1.3em;
   padding-top: 0.25vw;
-  line-height: 5.5vh;
   overflow: hidden;
   position: relative;
-  -moz-animation: rollingtitle 80s linear infinite;
-  -webkit-animation: rollingtitle 80s linear infinite;
-  animation: rollingtitle 80s linear infinite;
+  -moz-animation: rollingtitle 160s linear infinite;
+  -webkit-animation: rollingtitle 160s linear infinite;
+  animation: rollingtitle 160s linear infinite;
 }
 /* Move it (define the animation) */
 @-moz-keyframes rollingtitle {

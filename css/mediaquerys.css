@@ -35,10 +35,6 @@
 
 @media screen and (max-width: 1150px) {
 
-  .rollingtitle {
-    height: 6.9vh;
-  }
-
 
   .imggrid  {
     width: 30vw;
@@ -84,9 +80,6 @@
 
 @media screen and (orientation: portrait) {
 
-  .rollingtitle {
-    height: 6.5vh;
-  }
 
   .embed-container-16-9 {
     padding-bottom: 53%;
@@ -120,5 +113,13 @@
   .description  {
     margin-left: 2vw;
     margin-right: 2vw;
+  }
+
+  body{
+
+  /* GLOBAL TEXT */
+    font-size: 4.9em;
+    line-height: 1.15em;
+    font-weight: bold;
   }
 }
