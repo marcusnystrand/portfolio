@@ -78,5 +78,6 @@
   body{
     /* GLOBAL TEXT */
       font-size: 3.7rem;
+      line-height: 120%;
     }
 }
