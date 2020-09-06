@@ -41,7 +41,6 @@
     padding-right:0em;
   }
 
-
   .embed-container-16-9 {
     order: 1;
   }
@@ -50,12 +49,11 @@
     order: 1;
   }
 
- 
 }
 
 @media screen and (orientation: portrait) {
 
-  .gallery {
+  .mainwrap {
     grid-template-columns: 1fr;
   }
 
@@ -64,12 +62,7 @@
   }
 
   .contentwrap {
-    grid-template-columns: 1fr;
     margin-top: 0em;
-  }
-
-  .fliporder {
-    order: 1;
   }
 
   .title  {
@@ -81,31 +74,9 @@
     margin-bottom: 4vh;
   }
 
-  .mainwrap {
-    grid-template-columns: 1fr;
-  }
-
-  .contentwrap {
-    grid-template-columns: 1fr;
-  }
-
-  .contentdescription {
-    padding-right:0em;
-  }
-
-  .embed-container-16-9 {
-    order: 1;
-  }
-
-  .embed-container-2-35-1 {
-    order: 1;
-  }
-  
-
   body{
-  /* GLOBAL TEXT */
-    font-size: 2.8em;
-    line-height: 1.15em;
-    font-weight: bold;
-  }
+    /* GLOBAL TEXT */
+      font-size: 3.8rem;
+      line-height: 4.15rem;
+    }
 }
