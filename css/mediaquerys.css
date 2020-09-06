@@ -63,6 +63,7 @@
 
   .contentwrap {
     margin-top: 0em;
+    margin-bottom: 1em;
   }
 
   .title  {
@@ -77,6 +78,5 @@
   body{
     /* GLOBAL TEXT */
       font-size: 3.7rem;
-      line-height: 4.85rem;
     }
 }
