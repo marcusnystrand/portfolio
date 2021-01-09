@@ -99,7 +99,7 @@ iframe {
 
 .contentwrap {
   display: grid;
-  row-gap: 1.1em;
+  row-gap: 1em;
   column-gap: 0.3em;
   grid-template-columns: 1fr 1fr;
   align-items: start;
