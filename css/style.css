@@ -7,7 +7,7 @@ body {
 
 
   /* GLOBAL TEXT */
-  font-size: 2.1rem;
+  font-size: 2.1em;
   line-height: 113%;
   font-weight: bold;
   letter-spacing: -0.025em;
@@ -98,11 +98,11 @@ iframe {
 
 .contentwrap {
   display: grid;
-  row-gap: 2.1rem;
+  row-gap: 1.1em;
   column-gap: 0.3em;
   grid-template-columns: 1fr 1fr;
   align-items: start;
-  margin-bottom: 2.1rem;
+  margin-bottom: 1.1em;
 }
 
 .fullgallery {
